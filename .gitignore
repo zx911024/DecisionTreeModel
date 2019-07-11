@@ -1,0 +1,19 @@
+# ================================================
+# git ignore config: make sure the pure of project
+# ================================================
+
+# compiled files
+*.py[cod~]
+
+# pycharm generated file
+.idea/*
+*.log
+*.log.*
+data/
+hotel_region/data/*
+hotel_white_list/data/*
+import_hotel_data/data/*
+offline_match_crawler/data/*
+ruzhulv_source/dataFile/*
+hotel_white_list/data/*
+
